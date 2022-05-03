@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="static/css/main.css">
+    <title>Final Project</title>
+</head>
+<body>
+    <div class="navigation">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" style="background-color: rgb(255,255,255);" href="index.html">FINAL PROJECT</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            VISUALIZATIONS
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="WebVisualizations/tableau.html">Tableau</a>
+                            <a class="dropdown-item" href="WebVisualizations/machine-learning.html">Machine Learning</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="WebVisualizations/data.html">DATA</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href=""></a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7 col-md-12">
+                <div class="box" style="padding-bottom: 20px;">
+                    <h3 class="title">FINAL PROJECT ON CAUSES OF DEATH <br> IN THE UNITED STATES</h3>
+                    <hr>
+                    <img src="static/images/Map.jpg" class="vizualization rounded float-left" alt="Max Temperature Graph">
+                    <p> Scientists are constantly trying to find out what factors lead to death whether it be behavioral, environmental, or
+                        financial. Inspired by the current trends on health awareness, the improvement of healthy habits, and the increase in life expectancy, we wanted to analyze factors that may show correlation to death rates across the US according to data from the CDC, America’s Health Rankings Organization, and the Bureau of Economic Analysis on a 5-year time scale from 2011-2016.
+                        <br>
+                        <br>
+                        Hypothesis: Obesity, Tobacco, and income are all positively correlated factors to number of deaths.
+                        <br>
+                        <br>
+                        Variables for Exploration: Tobacco Use %, Obesity %, Per Capita Income, Number of Deaths                   
+                    </p>
+                    <h4 class="title">SOURCES</h4>
+                    <hr>
+                    <p>
+                        <a href="https://www.cdc.gov/nchs/data-visualization/mortality-leading-causes/index_2.htm">Leading Causes of Death</a><br>
+                        <a href="https://www.americashealthrankings.org/explore/annual/measure/Smoking/">Tobacco Use</a><br>
+                        <a href="https://chronicdata.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7/data">Obesity</a><br>
+                        <a href="https://apps.bea.gov/itable/iTable.cfm?ReqID=70&step=1">Personal Income by State</a><br>
+                        <a href="https://www.cdc.gov/mmwr/preview/mmwrhtml/su6304a2.htm#tab3">Mortality and Causal Links to Behavioral Factors</a><br>
+                        <a href="https://pubs.niaaa.nih.gov/publications/surveillance110/CONS16.htm#top">Apparent Per Capita Alcohol Consumption: National, State, And Regional Trends</a><br>
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-5 col-mt-12">
+                <div class="box">
+                    <h3 class="title">VISUALIZATIONS</h3>
+                    <hr>
+                    <div class="container">
+                        <div class="row" style="padding-bottom: 70px;">
+                            <div class="col-6">
+                                <div class="title">TABLEAU <br> ANALYSIS</div>
+                                <a href="WebVisualizations/tableau.html">
+                                <img class="panel" src="static/images/tableau.PNG" alt="Tableau Notebook">
+                                </a>
+                            </div>
+                            <div class="col-6">
+                                <div class="title">MACHINE LEARNING</div>
+                                <a href="WebVisualizations/machine-learning.html">
+                                <img class="panel" src="static/images/residual_plots.png" alt="Machine Learning Visualization">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <h3 class="title">MODELS USED</h3>
+                    <hr>
+                    <div class="container">
+                        <div class="row">
+                            <p>
+                                ETL Modeling<br>
+                                Scikit-Learn<br>
+                                Python Pandas<br>
+                                Python Matplotlib<br>
+                                HTML/CSS/Bootstrap<br>
+                                Tableau<br>
+                                Feature Engineering for Machine Learning<br>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>  </footer>
+</body>
+</html>

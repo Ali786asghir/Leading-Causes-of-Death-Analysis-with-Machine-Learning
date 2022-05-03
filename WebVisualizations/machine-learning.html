@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="../static/css/main.css">
+    <title>Tableau</title>
+</head>
+<body>
+    <div class="navigation">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" style="background-color: rgb(255,255,255);" href="../index.html">FINAL PROJECT</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            VISUALIZATIONS
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="tableau.html">Tableau</a>
+                            <a class="dropdown-item" href="machine-learning.html">Machine Learning</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="data.html">DATA</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href=""></a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12">
+                <div class="box" style="padding-bottom: 20px;">
+                    <h3 class="title">MACHINE LEARNING</h3>
+                    <hr>
+                    <p>
+                        <b>Hypothesis:</b> Number of deaths is correlated to obesity rates, tobacco use, and per capita income combined.
+                        <br><br>
+                        Pandas, get_dummies, and feature engineering was utilized to get a better fit model due to our dataset size and originally low R2. Columns that were artificially added and calculated were sum and mean. States and years were transformed into categorical data. Testing and training data was preprocessed through scaling to normalize the data within a smaller range. We ran our analysis against our hypothesis to get our residual plot. Prior to that, we decided to run linear regressions to see the correlation between death and income, tobacco, and obesity individually. Actual and predicted data was plotted on the same scatterplot.
+                    </p>
+                    <div class="container">
+                        <div class="row" style="padding-bottom: 70px;">
+                            <div class="col-6" style="padding-bottom: 30px">
+                                <img class="panel" src="../static/images/IncomevsDeath.png" alt="Income vs. Death">
+                            </div>
+                            <div class="col-6" style="padding-top: 20px">
+                                <p>This plot shows the actual and predicted data follows the same pattern, showing a strong correlation between death and income. There is no clear trend between death and income alone. </p>
+                            </div>
+                            <div class="col-6" style="padding-bottom: 30px">
+                                <img class="panel" src="../static/images/TobaccovsDeath.png" alt="Tobacco vs. Death">
+                            </div>
+                            <div class="col-6" style="padding-top: 20px">
+                                <p>This plot shows a strong correlation between number of deaths and tobacco use as actual and predicted data follows the same pattern. There is a weak negative trend, as number of deaths decreases as tobacco use increases when examining directional impact. </p>
+                            </div>
+                            <div class="col-6" style="padding-bottom: 30px">
+                                <img class="panel" src="../static/images/ObesityvsDeath.png" alt="Obesity vs. Death">
+                            </div>
+                            <div class="col-6" style="padding-top: 20px">
+                                <p>This plot shows that there is a strong correlation between obesity and death as actual and predicted values follow the relatively same pattern. There are a couple outliers in the data that don’t make the correlation as strong. There is a weak positive trend when looking at the directional impact of the plot. </p>
+                            </div>
+                            <div class="col-6" style="padding-bottom: 30px">
+                                <img class="panel" src="../static/images/residual_plots.png" alt="Residual Plots">
+                            </div>
+                            <div class="col-6" style="padding-top: 20px">
+                                <p>Training and testing data follows the relatively same pattern. Data points clustered between .5 and 1.0 indicates the model’s prediction was probably a bit on the low side. Negative outliers that are between -1.5 and -2.5 indicate the model’s predictions were a little too high. The R2 of .56 indicates that the model explains about 56% of the variability of the data around the mean. The differences between states are significant and can cause outliers and contribute to the skewed results of the analysis. The mean scored error, which shows the averaged squared difference between the predicted and actual values was .39, close to the desired 0 range. Overall, the probabilities of a positive correlation between number of deaths and tobacco use, obesity rates, and per capita income combined are relatively low. These factors alone are not enough to cause a strong correlation. Increasing the amount of data with more variables would have improved the results of the predicted model.  </p>
+                            </div>
+                            <div class="col-12" style="padding-bottom: 30px">
+                                <div class="title"><center>“Essentially, all models are wrong, but some are useful”- George Box</center></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+
+    <footer>  </footer>
+
+</body>
+</html>

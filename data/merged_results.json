@@ -1,0 +1,2702 @@
+[
+    {
+        "": "0",
+        "state": "Alabama",
+        "year": "2011",
+        "obesity_percentage": "32.1",
+        "tobacco_percentage": "15.5",
+        "per capita income": "34997",
+        "Deaths": "48681"
+    },
+    {
+        "": "1",
+        "state": "Alabama",
+        "year": "2012",
+        "obesity_percentage": "33.07",
+        "tobacco_percentage": "23.6",
+        "per capita income": "35884",
+        "Deaths": "49301"
+    },
+    {
+        "": "2",
+        "state": "Alabama",
+        "year": "2013",
+        "obesity_percentage": "32.59",
+        "tobacco_percentage": "22.8",
+        "per capita income": "36107",
+        "Deaths": "50189"
+    },
+    {
+        "": "3",
+        "state": "Alabama",
+        "year": "2014",
+        "obesity_percentage": "33.57",
+        "tobacco_percentage": "13.3",
+        "per capita income": "37266",
+        "Deaths": "50215"
+    },
+    {
+        "": "4",
+        "state": "Alabama",
+        "year": "2015",
+        "obesity_percentage": "35.67",
+        "tobacco_percentage": "17.2",
+        "per capita income": "38644",
+        "Deaths": "51909"
+    },
+    {
+        "": "5",
+        "state": "Alabama",
+        "year": "2016",
+        "obesity_percentage": "35.71",
+        "tobacco_percentage": "17.9",
+        "per capita income": "39224",
+        "Deaths": "52466"
+    },
+    {
+        "": "6",
+        "state": "Alaska",
+        "year": "2011",
+        "obesity_percentage": "27.48",
+        "tobacco_percentage": "16.7",
+        "per capita income": "52390",
+        "Deaths": "3849"
+    },
+    {
+        "": "7",
+        "state": "Alaska",
+        "year": "2012",
+        "obesity_percentage": "26.13",
+        "tobacco_percentage": "24.5",
+        "per capita income": "53627",
+        "Deaths": "3912"
+    },
+    {
+        "": "8",
+        "state": "Alaska",
+        "year": "2013",
+        "obesity_percentage": "28.38",
+        "tobacco_percentage": "21.1",
+        "per capita income": "52723",
+        "Deaths": "3997"
+    },
+    {
+        "": "9",
+        "state": "Alaska",
+        "year": "2014",
+        "obesity_percentage": "29.74",
+        "tobacco_percentage": "14.7",
+        "per capita income": "55833",
+        "Deaths": "4128"
+    },
+    {
+        "": "10",
+        "state": "Alaska",
+        "year": "2015",
+        "obesity_percentage": "30.06",
+        "tobacco_percentage": "15.8",
+        "per capita income": "57583",
+        "Deaths": "4316"
+    },
+    {
+        "": "11",
+        "state": "Alaska",
+        "year": "2016",
+        "obesity_percentage": "31.38",
+        "tobacco_percentage": "11.0",
+        "per capita income": "56016",
+        "Deaths": "4494"
+    },
+    {
+        "": "12",
+        "state": "Arizona",
+        "year": "2011",
+        "obesity_percentage": "24.79",
+        "tobacco_percentage": "19.0",
+        "per capita income": "34968",
+        "Deaths": "48381"
+    },
+    {
+        "": "13",
+        "state": "Arizona",
+        "year": "2012",
+        "obesity_percentage": "25.79",
+        "tobacco_percentage": "15.6",
+        "per capita income": "36123",
+        "Deaths": "49549"
+    },
+    {
+        "": "14",
+        "state": "Arizona",
+        "year": "2013",
+        "obesity_percentage": "26.35",
+        "tobacco_percentage": "14.5",
+        "per capita income": "36602",
+        "Deaths": "50534"
+    },
+    {
+        "": "15",
+        "state": "Arizona",
+        "year": "2014",
+        "obesity_percentage": "28.46",
+        "tobacco_percentage": "17.7",
+        "per capita income": "38226",
+        "Deaths": "51538"
+    },
+    {
+        "": "16",
+        "state": "Arizona",
+        "year": "2015",
+        "obesity_percentage": "27.8",
+        "tobacco_percentage": "13.1",
+        "per capita income": "39676",
+        "Deaths": "54299"
+    },
+    {
+        "": "17",
+        "state": "Arizona",
+        "year": "2016",
+        "obesity_percentage": "28.6",
+        "tobacco_percentage": "21.5",
+        "per capita income": "40671",
+        "Deaths": "56645"
+    },
+    {
+        "": "18",
+        "state": "Arkansas",
+        "year": "2011",
+        "obesity_percentage": "30.94",
+        "tobacco_percentage": "17.7",
+        "per capita income": "33863",
+        "Deaths": "29653"
+    },
+    {
+        "": "19",
+        "state": "Arkansas",
+        "year": "2012",
+        "obesity_percentage": "34.25",
+        "tobacco_percentage": "18.5",
+        "per capita income": "36240",
+        "Deaths": "30117"
+    },
+    {
+        "": "20",
+        "state": "Arkansas",
+        "year": "2013",
+        "obesity_percentage": "34.21",
+        "tobacco_percentage": "19.5",
+        "per capita income": "36235",
+        "Deaths": "30437"
+    },
+    {
+        "": "21",
+        "state": "Arkansas",
+        "year": "2014",
+        "obesity_percentage": "35.66",
+        "tobacco_percentage": "22.3",
+        "per capita income": "38260",
+        "Deaths": "30467"
+    },
+    {
+        "": "22",
+        "state": "Arkansas",
+        "year": "2015",
+        "obesity_percentage": "34.36",
+        "tobacco_percentage": "27.3",
+        "per capita income": "39343",
+        "Deaths": "31617"
+    },
+    {
+        "": "23",
+        "state": "Arkansas",
+        "year": "2016",
+        "obesity_percentage": "35.46",
+        "tobacco_percentage": "19.7",
+        "per capita income": "40148",
+        "Deaths": "31756"
+    },
+    {
+        "": "24",
+        "state": "California",
+        "year": "2011",
+        "obesity_percentage": "23.54",
+        "tobacco_percentage": "16.5",
+        "per capita income": "46170",
+        "Deaths": "239942"
+    },
+    {
+        "": "25",
+        "state": "California",
+        "year": "2012",
+        "obesity_percentage": "24.7",
+        "tobacco_percentage": "25.7",
+        "per capita income": "48798",
+        "Deaths": "242554"
+    },
+    {
+        "": "26",
+        "state": "California",
+        "year": "2013",
+        "obesity_percentage": "23.84",
+        "tobacco_percentage": "21.2",
+        "per capita income": "49277",
+        "Deaths": "248359"
+    },
+    {
+        "": "27",
+        "state": "California",
+        "year": "2014",
+        "obesity_percentage": "24.51",
+        "tobacco_percentage": "14.3",
+        "per capita income": "52324",
+        "Deaths": "245929"
+    },
+    {
+        "": "28",
+        "state": "California",
+        "year": "2015",
+        "obesity_percentage": "23.95",
+        "tobacco_percentage": "16.2",
+        "per capita income": "55758",
+        "Deaths": "259206"
+    },
+    {
+        "": "29",
+        "state": "California",
+        "year": "2016",
+        "obesity_percentage": "24.82",
+        "tobacco_percentage": "19.9",
+        "per capita income": "57739",
+        "Deaths": "262240"
+    },
+    {
+        "": "30",
+        "state": "Colorado",
+        "year": "2011",
+        "obesity_percentage": "20.64",
+        "tobacco_percentage": "15.0",
+        "per capita income": "43570",
+        "Deaths": "32563"
+    },
+    {
+        "": "31",
+        "state": "Colorado",
+        "year": "2012",
+        "obesity_percentage": "20.42",
+        "tobacco_percentage": "23.4",
+        "per capita income": "45659",
+        "Deaths": "33133"
+    },
+    {
+        "": "32",
+        "state": "Colorado",
+        "year": "2013",
+        "obesity_percentage": "21.04",
+        "tobacco_percentage": "18.0",
+        "per capita income": "47298",
+        "Deaths": "33712"
+    },
+    {
+        "": "33",
+        "state": "Colorado",
+        "year": "2014",
+        "obesity_percentage": "21.26",
+        "tobacco_percentage": "25.9",
+        "per capita income": "50700",
+        "Deaths": "35237"
+    },
+    {
+        "": "34",
+        "state": "Colorado",
+        "year": "2015",
+        "obesity_percentage": "20.19",
+        "tobacco_percentage": "21.6",
+        "per capita income": "52133",
+        "Deaths": "36349"
+    },
+    {
+        "": "35",
+        "state": "Colorado",
+        "year": "2016",
+        "obesity_percentage": "22.21",
+        "tobacco_percentage": "15.6",
+        "per capita income": "52262",
+        "Deaths": "37530"
+    },
+    {
+        "": "36",
+        "state": "Connecticut",
+        "year": "2011",
+        "obesity_percentage": "24.29",
+        "tobacco_percentage": "23.9",
+        "per capita income": "63804",
+        "Deaths": "29526"
+    },
+    {
+        "": "37",
+        "state": "Connecticut",
+        "year": "2012",
+        "obesity_percentage": "25.52",
+        "tobacco_percentage": "24.0",
+        "per capita income": "64917",
+        "Deaths": "29316"
+    },
+    {
+        "": "38",
+        "state": "Connecticut",
+        "year": "2013",
+        "obesity_percentage": "24.91",
+        "tobacco_percentage": "18.1",
+        "per capita income": "63554",
+        "Deaths": "29632"
+    },
+    {
+        "": "39",
+        "state": "Connecticut",
+        "year": "2014",
+        "obesity_percentage": "26.27",
+        "tobacco_percentage": "16.2",
+        "per capita income": "66485",
+        "Deaths": "29860"
+    },
+    {
+        "": "40",
+        "state": "Connecticut",
+        "year": "2015",
+        "obesity_percentage": "25.24",
+        "tobacco_percentage": "16.4",
+        "per capita income": "68288",
+        "Deaths": "30535"
+    },
+    {
+        "": "41",
+        "state": "Connecticut",
+        "year": "2016",
+        "obesity_percentage": "25.8",
+        "tobacco_percentage": "16.4",
+        "per capita income": "69741",
+        "Deaths": "30543"
+    },
+    {
+        "": "42",
+        "state": "Delaware",
+        "year": "2011",
+        "obesity_percentage": "28.84",
+        "tobacco_percentage": "18.0",
+        "per capita income": "43894",
+        "Deaths": "7845"
+    },
+    {
+        "": "43",
+        "state": "Delaware",
+        "year": "2012",
+        "obesity_percentage": "26.98",
+        "tobacco_percentage": "11.7",
+        "per capita income": "44077",
+        "Deaths": "7875"
+    },
+    {
+        "": "44",
+        "state": "Delaware",
+        "year": "2013",
+        "obesity_percentage": "31.02",
+        "tobacco_percentage": "19.7",
+        "per capita income": "44335",
+        "Deaths": "7967"
+    },
+    {
+        "": "45",
+        "state": "Delaware",
+        "year": "2014",
+        "obesity_percentage": "30.85",
+        "tobacco_percentage": "19.7",
+        "per capita income": "45988",
+        "Deaths": "8260"
+    },
+    {
+        "": "46",
+        "state": "Delaware",
+        "year": "2015",
+        "obesity_percentage": "29.88",
+        "tobacco_percentage": "19.1",
+        "per capita income": "47961",
+        "Deaths": "8582"
+    },
+    {
+        "": "47",
+        "state": "Delaware",
+        "year": "2016",
+        "obesity_percentage": "30.66",
+        "tobacco_percentage": "22.1",
+        "per capita income": "48505",
+        "Deaths": "8874"
+    },
+    {
+        "": "48",
+        "state": "Florida",
+        "year": "2011",
+        "obesity_percentage": "26.47",
+        "tobacco_percentage": "15.3",
+        "per capita income": "40047",
+        "Deaths": "173976"
+    },
+    {
+        "": "49",
+        "state": "Florida",
+        "year": "2012",
+        "obesity_percentage": "25.13",
+        "tobacco_percentage": "16.2",
+        "per capita income": "41055",
+        "Deaths": "177291"
+    },
+    {
+        "": "50",
+        "state": "Florida",
+        "year": "2013",
+        "obesity_percentage": "26.31",
+        "tobacco_percentage": "19.0",
+        "per capita income": "40659",
+        "Deaths": "181112"
+    },
+    {
+        "": "51",
+        "state": "Florida",
+        "year": "2014",
+        "obesity_percentage": "25.89",
+        "tobacco_percentage": "14.6",
+        "per capita income": "43109",
+        "Deaths": "185956"
+    },
+    {
+        "": "52",
+        "state": "Florida",
+        "year": "2015",
+        "obesity_percentage": "26.62",
+        "tobacco_percentage": "24.2",
+        "per capita income": "45287",
+        "Deaths": "191737"
+    },
+    {
+        "": "53",
+        "state": "Florida",
+        "year": "2016",
+        "obesity_percentage": "27.48",
+        "tobacco_percentage": "14.1",
+        "per capita income": "45684",
+        "Deaths": "197313"
+    },
+    {
+        "": "54",
+        "state": "Georgia",
+        "year": "2011",
+        "obesity_percentage": "28.0",
+        "tobacco_percentage": "15.5",
+        "per capita income": "36580",
+        "Deaths": "71248"
+    },
+    {
+        "": "55",
+        "state": "Georgia",
+        "year": "2012",
+        "obesity_percentage": "29.14",
+        "tobacco_percentage": "15.8",
+        "per capita income": "37254",
+        "Deaths": "72847"
+    },
+    {
+        "": "56",
+        "state": "Georgia",
+        "year": "2013",
+        "obesity_percentage": "30.33",
+        "tobacco_percentage": "8.8",
+        "per capita income": "37549",
+        "Deaths": "75088"
+    },
+    {
+        "": "57",
+        "state": "Georgia",
+        "year": "2014",
+        "obesity_percentage": "30.63",
+        "tobacco_percentage": "18.9",
+        "per capita income": "39795",
+        "Deaths": "76887"
+    },
+    {
+        "": "58",
+        "state": "Georgia",
+        "year": "2015",
+        "obesity_percentage": "30.68",
+        "tobacco_percentage": "16.2",
+        "per capita income": "41681",
+        "Deaths": "79942"
+    },
+    {
+        "": "59",
+        "state": "Georgia",
+        "year": "2016",
+        "obesity_percentage": "31.53",
+        "tobacco_percentage": "19.5",
+        "per capita income": "42693",
+        "Deaths": "81428"
+    },
+    {
+        "": "60",
+        "state": "Hawaii",
+        "year": "2011",
+        "obesity_percentage": "21.53",
+        "tobacco_percentage": "24.0",
+        "per capita income": "43534",
+        "Deaths": "9923"
+    },
+    {
+        "": "61",
+        "state": "Hawaii",
+        "year": "2012",
+        "obesity_percentage": "23.35",
+        "tobacco_percentage": "24.9",
+        "per capita income": "44774",
+        "Deaths": "10274"
+    },
+    {
+        "": "62",
+        "state": "Hawaii",
+        "year": "2013",
+        "obesity_percentage": "21.65",
+        "tobacco_percentage": "17.9",
+        "per capita income": "44955",
+        "Deaths": "10505"
+    },
+    {
+        "": "63",
+        "state": "Hawaii",
+        "year": "2014",
+        "obesity_percentage": "21.99",
+        "tobacco_percentage": "24.8",
+        "per capita income": "47246",
+        "Deaths": "10767"
+    },
+    {
+        "": "64",
+        "state": "Hawaii",
+        "year": "2015",
+        "obesity_percentage": "22.41",
+        "tobacco_percentage": "22.1",
+        "per capita income": "49480",
+        "Deaths": "11053"
+    },
+    {
+        "": "65",
+        "state": "Hawaii",
+        "year": "2016",
+        "obesity_percentage": "23.57",
+        "tobacco_percentage": "18.7",
+        "per capita income": "51032",
+        "Deaths": "10913"
+    },
+    {
+        "": "66",
+        "state": "Idaho",
+        "year": "2011",
+        "obesity_percentage": "27.03",
+        "tobacco_percentage": "16.3",
+        "per capita income": "33515",
+        "Deaths": "12027"
+    },
+    {
+        "": "67",
+        "state": "Idaho",
+        "year": "2012",
+        "obesity_percentage": "26.87",
+        "tobacco_percentage": "20.0",
+        "per capita income": "35188",
+        "Deaths": "11998"
+    },
+    {
+        "": "68",
+        "state": "Idaho",
+        "year": "2013",
+        "obesity_percentage": "29.61",
+        "tobacco_percentage": "18.0",
+        "per capita income": "36200",
+        "Deaths": "12434"
+    },
+    {
+        "": "69",
+        "state": "Idaho",
+        "year": "2014",
+        "obesity_percentage": "28.8",
+        "tobacco_percentage": "13.7",
+        "per capita income": "37896",
+        "Deaths": "12613"
+    },
+    {
+        "": "70",
+        "state": "Idaho",
+        "year": "2015",
+        "obesity_percentage": "28.6",
+        "tobacco_percentage": "20.6",
+        "per capita income": "39857",
+        "Deaths": "13026"
+    },
+    {
+        "": "71",
+        "state": "Idaho",
+        "year": "2016",
+        "obesity_percentage": "27.39",
+        "tobacco_percentage": "15.9",
+        "per capita income": "40670",
+        "Deaths": "13366"
+    },
+    {
+        "": "72",
+        "state": "Illinois",
+        "year": "2011",
+        "obesity_percentage": "27.34",
+        "tobacco_percentage": "16.6",
+        "per capita income": "44140",
+        "Deaths": "101906"
+    },
+    {
+        "": "73",
+        "state": "Illinois",
+        "year": "2012",
+        "obesity_percentage": "28.18",
+        "tobacco_percentage": "15.7",
+        "per capita income": "46044",
+        "Deaths": "102433"
+    },
+    {
+        "": "74",
+        "state": "Illinois",
+        "year": "2013",
+        "obesity_percentage": "29.38",
+        "tobacco_percentage": "9.1",
+        "per capita income": "47113",
+        "Deaths": "103401"
+    },
+    {
+        "": "75",
+        "state": "Illinois",
+        "year": "2014",
+        "obesity_percentage": "29.3",
+        "tobacco_percentage": "16.4",
+        "per capita income": "49444",
+        "Deaths": "105293"
+    },
+    {
+        "": "76",
+        "state": "Illinois",
+        "year": "2015",
+        "obesity_percentage": "30.82",
+        "tobacco_percentage": "13.6",
+        "per capita income": "51519",
+        "Deaths": "106872"
+    },
+    {
+        "": "77",
+        "state": "Illinois",
+        "year": "2016",
+        "obesity_percentage": "31.55",
+        "tobacco_percentage": "14.7",
+        "per capita income": "52273",
+        "Deaths": "107020"
+    },
+    {
+        "": "78",
+        "state": "Indiana",
+        "year": "2011",
+        "obesity_percentage": "30.95",
+        "tobacco_percentage": "21.0",
+        "per capita income": "37653",
+        "Deaths": "58202"
+    },
+    {
+        "": "79",
+        "state": "Indiana",
+        "year": "2012",
+        "obesity_percentage": "31.48",
+        "tobacco_percentage": "21.4",
+        "per capita income": "39334",
+        "Deaths": "59332"
+    },
+    {
+        "": "80",
+        "state": "Indiana",
+        "year": "2013",
+        "obesity_percentage": "31.88",
+        "tobacco_percentage": "22.5",
+        "per capita income": "39648",
+        "Deaths": "60716"
+    },
+    {
+        "": "81",
+        "state": "Indiana",
+        "year": "2014",
+        "obesity_percentage": "32.75",
+        "tobacco_percentage": "18.0",
+        "per capita income": "41099",
+        "Deaths": "60940"
+    },
+    {
+        "": "82",
+        "state": "Indiana",
+        "year": "2015",
+        "obesity_percentage": "31.31",
+        "tobacco_percentage": "24.8",
+        "per capita income": "42627",
+        "Deaths": "62713"
+    },
+    {
+        "": "83",
+        "state": "Indiana",
+        "year": "2016",
+        "obesity_percentage": "32.55",
+        "tobacco_percentage": "12.8",
+        "per capita income": "43741",
+        "Deaths": "63473"
+    },
+    {
+        "": "84",
+        "state": "Iowa",
+        "year": "2011",
+        "obesity_percentage": "29.16",
+        "tobacco_percentage": "16.0",
+        "per capita income": "40952",
+        "Deaths": "28184"
+    },
+    {
+        "": "85",
+        "state": "Iowa",
+        "year": "2012",
+        "obesity_percentage": "30.57",
+        "tobacco_percentage": "13.5",
+        "per capita income": "42906",
+        "Deaths": "28389"
+    },
+    {
+        "": "86",
+        "state": "Iowa",
+        "year": "2013",
+        "obesity_percentage": "31.38",
+        "tobacco_percentage": "15.7",
+        "per capita income": "43472",
+        "Deaths": "28948"
+    },
+    {
+        "": "87",
+        "state": "Iowa",
+        "year": "2014",
+        "obesity_percentage": "31.11",
+        "tobacco_percentage": "20.7",
+        "per capita income": "44799",
+        "Deaths": "29190"
+    },
+    {
+        "": "88",
+        "state": "Iowa",
+        "year": "2015",
+        "obesity_percentage": "32.22",
+        "tobacco_percentage": "20.0",
+        "per capita income": "46224",
+        "Deaths": "29600"
+    },
+    {
+        "": "89",
+        "state": "Iowa",
+        "year": "2016",
+        "obesity_percentage": "31.97",
+        "tobacco_percentage": "25.0",
+        "per capita income": "46431",
+        "Deaths": "29538"
+    },
+    {
+        "": "90",
+        "state": "Kansas",
+        "year": "2011",
+        "obesity_percentage": "29.66",
+        "tobacco_percentage": "22.5",
+        "per capita income": "42719",
+        "Deaths": "25116"
+    },
+    {
+        "": "91",
+        "state": "Kansas",
+        "year": "2012",
+        "obesity_percentage": "29.61",
+        "tobacco_percentage": "17.4",
+        "per capita income": "45118",
+        "Deaths": "25145"
+    },
+    {
+        "": "92",
+        "state": "Kansas",
+        "year": "2013",
+        "obesity_percentage": "29.94",
+        "tobacco_percentage": "16.6",
+        "per capita income": "45958",
+        "Deaths": "25414"
+    },
+    {
+        "": "93",
+        "state": "Kansas",
+        "year": "2014",
+        "obesity_percentage": "31.36",
+        "tobacco_percentage": "20.3",
+        "per capita income": "46874",
+        "Deaths": "25793"
+    },
+    {
+        "": "94",
+        "state": "Kansas",
+        "year": "2015",
+        "obesity_percentage": "34.15",
+        "tobacco_percentage": "17.1",
+        "per capita income": "47386",
+        "Deaths": "26664"
+    },
+    {
+        "": "95",
+        "state": "Kansas",
+        "year": "2016",
+        "obesity_percentage": "31.18",
+        "tobacco_percentage": "19.1",
+        "per capita income": "47510",
+        "Deaths": "26245"
+    },
+    {
+        "": "96",
+        "state": "Kentucky",
+        "year": "2011",
+        "obesity_percentage": "30.62",
+        "tobacco_percentage": "16.3",
+        "per capita income": "34626",
+        "Deaths": "42626"
+    },
+    {
+        "": "97",
+        "state": "Kentucky",
+        "year": "2012",
+        "obesity_percentage": "31.45",
+        "tobacco_percentage": "19.0",
+        "per capita income": "35753",
+        "Deaths": "43664"
+    },
+    {
+        "": "98",
+        "state": "Kentucky",
+        "year": "2013",
+        "obesity_percentage": "33.36",
+        "tobacco_percentage": "17.6",
+        "per capita income": "35919",
+        "Deaths": "43759"
+    },
+    {
+        "": "99",
+        "state": "Kentucky",
+        "year": "2014",
+        "obesity_percentage": "31.74",
+        "tobacco_percentage": "22.0",
+        "per capita income": "37584",
+        "Deaths": "44838"
+    },
+    {
+        "": "100",
+        "state": "Kentucky",
+        "year": "2015",
+        "obesity_percentage": "34.65",
+        "tobacco_percentage": "16.5",
+        "per capita income": "39093",
+        "Deaths": "46564"
+    },
+    {
+        "": "101",
+        "state": "Kentucky",
+        "year": "2016",
+        "obesity_percentage": "34.21",
+        "tobacco_percentage": "19.8",
+        "per capita income": "39638",
+        "Deaths": "47827"
+    },
+    {
+        "": "102",
+        "state": "Louisiana",
+        "year": "2011",
+        "obesity_percentage": "33.46",
+        "tobacco_percentage": "22.9",
+        "per capita income": "38710",
+        "Deaths": "40890"
+    },
+    {
+        "": "103",
+        "state": "Louisiana",
+        "year": "2012",
+        "obesity_percentage": "34.79",
+        "tobacco_percentage": "15.1",
+        "per capita income": "40556",
+        "Deaths": "42320"
+    },
+    {
+        "": "104",
+        "state": "Louisiana",
+        "year": "2013",
+        "obesity_percentage": "33.19",
+        "tobacco_percentage": "17.7",
+        "per capita income": "40911",
+        "Deaths": "43270"
+    },
+    {
+        "": "105",
+        "state": "Louisiana",
+        "year": "2014",
+        "obesity_percentage": "34.92",
+        "tobacco_percentage": "16.6",
+        "per capita income": "42684",
+        "Deaths": "43869"
+    },
+    {
+        "": "106",
+        "state": "Louisiana",
+        "year": "2015",
+        "obesity_percentage": "36.25",
+        "tobacco_percentage": "20.4",
+        "per capita income": "43034",
+        "Deaths": "43716"
+    },
+    {
+        "": "107",
+        "state": "Louisiana",
+        "year": "2016",
+        "obesity_percentage": "35.44",
+        "tobacco_percentage": "19.1",
+        "per capita income": "42726",
+        "Deaths": "44306"
+    },
+    {
+        "": "108",
+        "state": "Maine",
+        "year": "2011",
+        "obesity_percentage": "27.76",
+        "tobacco_percentage": "13.5",
+        "per capita income": "39472",
+        "Deaths": "13001"
+    },
+    {
+        "": "109",
+        "state": "Maine",
+        "year": "2012",
+        "obesity_percentage": "28.24",
+        "tobacco_percentage": "18.5",
+        "per capita income": "40288",
+        "Deaths": "12870"
+    },
+    {
+        "": "110",
+        "state": "Maine",
+        "year": "2013",
+        "obesity_percentage": "28.9",
+        "tobacco_percentage": "18.1",
+        "per capita income": "40165",
+        "Deaths": "13547"
+    },
+    {
+        "": "111",
+        "state": "Maine",
+        "year": "2014",
+        "obesity_percentage": "28.14",
+        "tobacco_percentage": "25.9",
+        "per capita income": "41818",
+        "Deaths": "13510"
+    },
+    {
+        "": "112",
+        "state": "Maine",
+        "year": "2015",
+        "obesity_percentage": "29.96",
+        "tobacco_percentage": "18.6",
+        "per capita income": "43619",
+        "Deaths": "14479"
+    },
+    {
+        "": "113",
+        "state": "Maine",
+        "year": "2016",
+        "obesity_percentage": "29.89",
+        "tobacco_percentage": "24.7",
+        "per capita income": "44839",
+        "Deaths": "14182"
+    },
+    {
+        "": "114",
+        "state": "Maryland",
+        "year": "2011",
+        "obesity_percentage": "28.2",
+        "tobacco_percentage": "18.1",
+        "per capita income": "52437",
+        "Deaths": "43745"
+    },
+    {
+        "": "115",
+        "state": "Maryland",
+        "year": "2012",
+        "obesity_percentage": "27.67",
+        "tobacco_percentage": "17.4",
+        "per capita income": "53546",
+        "Deaths": "44477"
+    },
+    {
+        "": "116",
+        "state": "Maryland",
+        "year": "2013",
+        "obesity_percentage": "28.27",
+        "tobacco_percentage": "14.5",
+        "per capita income": "53052",
+        "Deaths": "45689"
+    },
+    {
+        "": "117",
+        "state": "Maryland",
+        "year": "2014",
+        "obesity_percentage": "29.72",
+        "tobacco_percentage": "19.6",
+        "per capita income": "54687",
+        "Deaths": "45867"
+    },
+    {
+        "": "118",
+        "state": "Maryland",
+        "year": "2015",
+        "obesity_percentage": "28.99",
+        "tobacco_percentage": "22.1",
+        "per capita income": "57139",
+        "Deaths": "47247"
+    },
+    {
+        "": "119",
+        "state": "Maryland",
+        "year": "2016",
+        "obesity_percentage": "30.04",
+        "tobacco_percentage": "22.7",
+        "per capita income": "59029",
+        "Deaths": "48824"
+    },
+    {
+        "": "120",
+        "state": "Massachusetts",
+        "year": "2011",
+        "obesity_percentage": "22.93",
+        "tobacco_percentage": "17.3",
+        "per capita income": "55305",
+        "Deaths": "53710"
+    },
+    {
+        "": "121",
+        "state": "Massachusetts",
+        "year": "2012",
+        "obesity_percentage": "23.06",
+        "tobacco_percentage": "24.8",
+        "per capita income": "57332",
+        "Deaths": "53177"
+    },
+    {
+        "": "122",
+        "state": "Massachusetts",
+        "year": "2013",
+        "obesity_percentage": "23.83",
+        "tobacco_percentage": "21.9",
+        "per capita income": "57372",
+        "Deaths": "54567"
+    },
+    {
+        "": "123",
+        "state": "Massachusetts",
+        "year": "2014",
+        "obesity_percentage": "23.52",
+        "tobacco_percentage": "15.2",
+        "per capita income": "59954",
+        "Deaths": "55200"
+    },
+    {
+        "": "124",
+        "state": "Massachusetts",
+        "year": "2015",
+        "obesity_percentage": "24.39",
+        "tobacco_percentage": "18.8",
+        "per capita income": "63583",
+        "Deaths": "57806"
+    },
+    {
+        "": "125",
+        "state": "Massachusetts",
+        "year": "2016",
+        "obesity_percentage": "23.59",
+        "tobacco_percentage": "19.9",
+        "per capita income": "65473",
+        "Deaths": "56961"
+    },
+    {
+        "": "126",
+        "state": "Michigan",
+        "year": "2011",
+        "obesity_percentage": "31.34",
+        "tobacco_percentage": "14.1",
+        "per capita income": "37512",
+        "Deaths": "89508"
+    },
+    {
+        "": "127",
+        "state": "Michigan",
+        "year": "2012",
+        "obesity_percentage": "31.12",
+        "tobacco_percentage": "10.3",
+        "per capita income": "39059",
+        "Deaths": "89901"
+    },
+    {
+        "": "128",
+        "state": "Michigan",
+        "year": "2013",
+        "obesity_percentage": "31.49",
+        "tobacco_percentage": "18.1",
+        "per capita income": "39361",
+        "Deaths": "92408"
+    },
+    {
+        "": "129",
+        "state": "Michigan",
+        "year": "2014",
+        "obesity_percentage": "30.83",
+        "tobacco_percentage": "20.2",
+        "per capita income": "41147",
+        "Deaths": "93914"
+    },
+    {
+        "": "130",
+        "state": "Michigan",
+        "year": "2015",
+        "obesity_percentage": "31.09",
+        "tobacco_percentage": "19.0",
+        "per capita income": "43533",
+        "Deaths": "95140"
+    },
+    {
+        "": "131",
+        "state": "Michigan",
+        "year": "2016",
+        "obesity_percentage": "32.44",
+        "tobacco_percentage": "19.5",
+        "per capita income": "44868",
+        "Deaths": "96231"
+    },
+    {
+        "": "132",
+        "state": "Minnesota",
+        "year": "2011",
+        "obesity_percentage": "25.73",
+        "tobacco_percentage": "20.6",
+        "per capita income": "45353",
+        "Deaths": "39820"
+    },
+    {
+        "": "133",
+        "state": "Minnesota",
+        "year": "2012",
+        "obesity_percentage": "25.71",
+        "tobacco_percentage": "21.4",
+        "per capita income": "47860",
+        "Deaths": "40016"
+    },
+    {
+        "": "134",
+        "state": "Minnesota",
+        "year": "2013",
+        "obesity_percentage": "25.53",
+        "tobacco_percentage": "19.6",
+        "per capita income": "47941",
+        "Deaths": "40987"
+    },
+    {
+        "": "135",
+        "state": "Minnesota",
+        "year": "2014",
+        "obesity_percentage": "27.7",
+        "tobacco_percentage": "15.5",
+        "per capita income": "50254",
+        "Deaths": "41445"
+    },
+    {
+        "": "136",
+        "state": "Minnesota",
+        "year": "2015",
+        "obesity_percentage": "26.33",
+        "tobacco_percentage": "16.1",
+        "per capita income": "52315",
+        "Deaths": "42800"
+    },
+    {
+        "": "137",
+        "state": "Minnesota",
+        "year": "2016",
+        "obesity_percentage": "27.84",
+        "tobacco_percentage": "19.9",
+        "per capita income": "53209",
+        "Deaths": "43078"
+    },
+    {
+        "": "138",
+        "state": "Mississippi",
+        "year": "2011",
+        "obesity_percentage": "34.84",
+        "tobacco_percentage": "13.8",
+        "per capita income": "32163",
+        "Deaths": "29278"
+    },
+    {
+        "": "139",
+        "state": "Mississippi",
+        "year": "2012",
+        "obesity_percentage": "34.6",
+        "tobacco_percentage": "14.0",
+        "per capita income": "33309",
+        "Deaths": "29544"
+    },
+    {
+        "": "140",
+        "state": "Mississippi",
+        "year": "2013",
+        "obesity_percentage": "35.02",
+        "tobacco_percentage": "14.4",
+        "per capita income": "33852",
+        "Deaths": "30703"
+    },
+    {
+        "": "141",
+        "state": "Mississippi",
+        "year": "2014",
+        "obesity_percentage": "35.48",
+        "tobacco_percentage": "15.3",
+        "per capita income": "34545",
+        "Deaths": "30557"
+    },
+    {
+        "": "142",
+        "state": "Mississippi",
+        "year": "2015",
+        "obesity_percentage": "35.36",
+        "tobacco_percentage": "13.9",
+        "per capita income": "35022",
+        "Deaths": "31783"
+    },
+    {
+        "": "143",
+        "state": "Mississippi",
+        "year": "2016",
+        "obesity_percentage": "37.34",
+        "tobacco_percentage": "28.3",
+        "per capita income": "35613",
+        "Deaths": "31741"
+    },
+    {
+        "": "144",
+        "state": "Missouri",
+        "year": "2011",
+        "obesity_percentage": "30.41",
+        "tobacco_percentage": "22.6",
+        "per capita income": "38343",
+        "Deaths": "55848"
+    },
+    {
+        "": "145",
+        "state": "Missouri",
+        "year": "2012",
+        "obesity_percentage": "29.85",
+        "tobacco_percentage": "15.2",
+        "per capita income": "40133",
+        "Deaths": "56094"
+    },
+    {
+        "": "146",
+        "state": "Missouri",
+        "year": "2013",
+        "obesity_percentage": "30.46",
+        "tobacco_percentage": "21.9",
+        "per capita income": "40324",
+        "Deaths": "57444"
+    },
+    {
+        "": "147",
+        "state": "Missouri",
+        "year": "2014",
+        "obesity_percentage": "30.35",
+        "tobacco_percentage": "14.0",
+        "per capita income": "41775",
+        "Deaths": "58320"
+    },
+    {
+        "": "148",
+        "state": "Missouri",
+        "year": "2015",
+        "obesity_percentage": "32.33",
+        "tobacco_percentage": "16.5",
+        "per capita income": "43096",
+        "Deaths": "59871"
+    },
+    {
+        "": "149",
+        "state": "Missouri",
+        "year": "2016",
+        "obesity_percentage": "31.78",
+        "tobacco_percentage": "21.5",
+        "per capita income": "44336",
+        "Deaths": "59873"
+    },
+    {
+        "": "150",
+        "state": "Montana",
+        "year": "2011",
+        "obesity_percentage": "24.69",
+        "tobacco_percentage": "20.4",
+        "per capita income": "38184",
+        "Deaths": "9115"
+    },
+    {
+        "": "151",
+        "state": "Montana",
+        "year": "2012",
+        "obesity_percentage": "24.35",
+        "tobacco_percentage": "19.3",
+        "per capita income": "40320",
+        "Deaths": "8976"
+    },
+    {
+        "": "152",
+        "state": "Montana",
+        "year": "2013",
+        "obesity_percentage": "24.71",
+        "tobacco_percentage": "23.0",
+        "per capita income": "40176",
+        "Deaths": "9511"
+    },
+    {
+        "": "153",
+        "state": "Montana",
+        "year": "2014",
+        "obesity_percentage": "26.48",
+        "tobacco_percentage": "16.3",
+        "per capita income": "41900",
+        "Deaths": "9381"
+    },
+    {
+        "": "154",
+        "state": "Montana",
+        "year": "2015",
+        "obesity_percentage": "23.71",
+        "tobacco_percentage": "23.3",
+        "per capita income": "43504",
+        "Deaths": "9942"
+    },
+    {
+        "": "155",
+        "state": "Montana",
+        "year": "2016",
+        "obesity_percentage": "25.65",
+        "tobacco_percentage": "19.6",
+        "per capita income": "43721",
+        "Deaths": "9905"
+    },
+    {
+        "": "156",
+        "state": "Nebraska",
+        "year": "2011",
+        "obesity_percentage": "28.61",
+        "tobacco_percentage": "17.5",
+        "per capita income": "45429",
+        "Deaths": "15476"
+    },
+    {
+        "": "157",
+        "state": "Nebraska",
+        "year": "2012",
+        "obesity_percentage": "28.81",
+        "tobacco_percentage": "18.6",
+        "per capita income": "46562",
+        "Deaths": "15659"
+    },
+    {
+        "": "158",
+        "state": "Nebraska",
+        "year": "2013",
+        "obesity_percentage": "29.74",
+        "tobacco_percentage": "15.2",
+        "per capita income": "46592",
+        "Deaths": "15754"
+    },
+    {
+        "": "159",
+        "state": "Nebraska",
+        "year": "2014",
+        "obesity_percentage": "30.27",
+        "tobacco_percentage": "20.1",
+        "per capita income": "48948",
+        "Deaths": "15978"
+    },
+    {
+        "": "160",
+        "state": "Nebraska",
+        "year": "2015",
+        "obesity_percentage": "31.63",
+        "tobacco_percentage": "17.3",
+        "per capita income": "50588",
+        "Deaths": "16740"
+    },
+    {
+        "": "161",
+        "state": "Nebraska",
+        "year": "2016",
+        "obesity_percentage": "32.12",
+        "tobacco_percentage": "19.1",
+        "per capita income": "49703",
+        "Deaths": "16217"
+    },
+    {
+        "": "162",
+        "state": "Nevada",
+        "year": "2011",
+        "obesity_percentage": "24.03",
+        "tobacco_percentage": "24.0",
+        "per capita income": "38550",
+        "Deaths": "20343"
+    },
+    {
+        "": "163",
+        "state": "Nevada",
+        "year": "2012",
+        "obesity_percentage": "26.13",
+        "tobacco_percentage": "24.3",
+        "per capita income": "39651",
+        "Deaths": "20785"
+    },
+    {
+        "": "164",
+        "state": "Nevada",
+        "year": "2013",
+        "obesity_percentage": "26.16",
+        "tobacco_percentage": "15.4",
+        "per capita income": "39271",
+        "Deaths": "21468"
+    },
+    {
+        "": "165",
+        "state": "Nevada",
+        "year": "2014",
+        "obesity_percentage": "27.39",
+        "tobacco_percentage": "17.1",
+        "per capita income": "41484",
+        "Deaths": "21793"
+    },
+    {
+        "": "166",
+        "state": "Nevada",
+        "year": "2015",
+        "obesity_percentage": "26.4",
+        "tobacco_percentage": "17.0",
+        "per capita income": "44065",
+        "Deaths": "22879"
+    },
+    {
+        "": "167",
+        "state": "Nevada",
+        "year": "2016",
+        "obesity_percentage": "25.79",
+        "tobacco_percentage": "17.4",
+        "per capita income": "44967",
+        "Deaths": "23902"
+    },
+    {
+        "": "168",
+        "state": "New Hampshire",
+        "year": "2011",
+        "obesity_percentage": "26.26",
+        "tobacco_percentage": "18.9",
+        "per capita income": "48938",
+        "Deaths": "10823"
+    },
+    {
+        "": "169",
+        "state": "New Hampshire",
+        "year": "2012",
+        "obesity_percentage": "27.3",
+        "tobacco_percentage": "17.1",
+        "per capita income": "51005",
+        "Deaths": "10730"
+    },
+    {
+        "": "170",
+        "state": "New Hampshire",
+        "year": "2013",
+        "obesity_percentage": "26.85",
+        "tobacco_percentage": "19.5",
+        "per capita income": "50754",
+        "Deaths": "10897"
+    },
+    {
+        "": "171",
+        "state": "New Hampshire",
+        "year": "2014",
+        "obesity_percentage": "27.52",
+        "tobacco_percentage": "23.8",
+        "per capita income": "52673",
+        "Deaths": "11516"
+    },
+    {
+        "": "172",
+        "state": "New Hampshire",
+        "year": "2015",
+        "obesity_percentage": "26.5",
+        "tobacco_percentage": "21.5",
+        "per capita income": "54788",
+        "Deaths": "11984"
+    },
+    {
+        "": "173",
+        "state": "New Hampshire",
+        "year": "2016",
+        "obesity_percentage": "26.75",
+        "tobacco_percentage": "14.0",
+        "per capita income": "56480",
+        "Deaths": "12203"
+    },
+    {
+        "": "174",
+        "state": "New Jersey",
+        "year": "2011",
+        "obesity_percentage": "23.81",
+        "tobacco_percentage": "18.8",
+        "per capita income": "53696",
+        "Deaths": "70558"
+    },
+    {
+        "": "175",
+        "state": "New Jersey",
+        "year": "2012",
+        "obesity_percentage": "24.74",
+        "tobacco_percentage": "16.8",
+        "per capita income": "55583",
+        "Deaths": "70534"
+    },
+    {
+        "": "176",
+        "state": "New Jersey",
+        "year": "2013",
+        "obesity_percentage": "26.39",
+        "tobacco_percentage": "22.2",
+        "per capita income": "56045",
+        "Deaths": "71403"
+    },
+    {
+        "": "177",
+        "state": "New Jersey",
+        "year": "2014",
+        "obesity_percentage": "27.07",
+        "tobacco_percentage": "26.2",
+        "per capita income": "58655",
+        "Deaths": "71316"
+    },
+    {
+        "": "178",
+        "state": "New Jersey",
+        "year": "2015",
+        "obesity_percentage": "25.69",
+        "tobacco_percentage": "15.1",
+        "per capita income": "61110",
+        "Deaths": "72271"
+    },
+    {
+        "": "179",
+        "state": "New Jersey",
+        "year": "2016",
+        "obesity_percentage": "27.49",
+        "tobacco_percentage": "19.1",
+        "per capita income": "62701",
+        "Deaths": "73155"
+    },
+    {
+        "": "180",
+        "state": "New Mexico",
+        "year": "2011",
+        "obesity_percentage": "26.01",
+        "tobacco_percentage": "14.6",
+        "per capita income": "35003",
+        "Deaths": "16452"
+    },
+    {
+        "": "181",
+        "state": "New Mexico",
+        "year": "2012",
+        "obesity_percentage": "26.66",
+        "tobacco_percentage": "17.0",
+        "per capita income": "35725",
+        "Deaths": "16710"
+    },
+    {
+        "": "182",
+        "state": "New Mexico",
+        "year": "2013",
+        "obesity_percentage": "26.1",
+        "tobacco_percentage": "21.2",
+        "per capita income": "35079",
+        "Deaths": "16805"
+    },
+    {
+        "": "183",
+        "state": "New Mexico",
+        "year": "2014",
+        "obesity_percentage": "28.01",
+        "tobacco_percentage": "19.7",
+        "per capita income": "37182",
+        "Deaths": "17579"
+    },
+    {
+        "": "184",
+        "state": "New Mexico",
+        "year": "2015",
+        "obesity_percentage": "28.33",
+        "tobacco_percentage": "9.7",
+        "per capita income": "38261",
+        "Deaths": "17685"
+    },
+    {
+        "": "185",
+        "state": "New Mexico",
+        "year": "2016",
+        "obesity_percentage": "28.12",
+        "tobacco_percentage": "17.7",
+        "per capita income": "38825",
+        "Deaths": "18365"
+    },
+    {
+        "": "186",
+        "state": "New York",
+        "year": "2011",
+        "obesity_percentage": "24.56",
+        "tobacco_percentage": "17.2",
+        "per capita income": "51498",
+        "Deaths": "149174"
+    },
+    {
+        "": "187",
+        "state": "New York",
+        "year": "2012",
+        "obesity_percentage": "23.6",
+        "tobacco_percentage": "17.0",
+        "per capita income": "53982",
+        "Deaths": "148991"
+    },
+    {
+        "": "188",
+        "state": "New York",
+        "year": "2013",
+        "obesity_percentage": "25.35",
+        "tobacco_percentage": "16.0",
+        "per capita income": "54491",
+        "Deaths": "150919"
+    },
+    {
+        "": "189",
+        "state": "New York",
+        "year": "2014",
+        "obesity_percentage": "26.93",
+        "tobacco_percentage": "14.2",
+        "per capita income": "56743",
+        "Deaths": "149944"
+    },
+    {
+        "": "190",
+        "state": "New York",
+        "year": "2015",
+        "obesity_percentage": "25.0",
+        "tobacco_percentage": "17.7",
+        "per capita income": "59141",
+        "Deaths": "153628"
+    },
+    {
+        "": "191",
+        "state": "New York",
+        "year": "2016",
+        "obesity_percentage": "25.63",
+        "tobacco_percentage": "17.3",
+        "per capita income": "61226",
+        "Deaths": "154358"
+    },
+    {
+        "": "192",
+        "state": "North Carolina",
+        "year": "2011",
+        "obesity_percentage": "28.96",
+        "tobacco_percentage": "18.5",
+        "per capita income": "36767",
+        "Deaths": "79882"
+    },
+    {
+        "": "193",
+        "state": "North Carolina",
+        "year": "2012",
+        "obesity_percentage": "29.62",
+        "tobacco_percentage": "16.4",
+        "per capita income": "38970",
+        "Deaths": "81925"
+    },
+    {
+        "": "194",
+        "state": "North Carolina",
+        "year": "2013",
+        "obesity_percentage": "29.55",
+        "tobacco_percentage": "15.9",
+        "per capita income": "38200",
+        "Deaths": "83329"
+    },
+    {
+        "": "195",
+        "state": "North Carolina",
+        "year": "2014",
+        "obesity_percentage": "29.62",
+        "tobacco_percentage": "20.6",
+        "per capita income": "40064",
+        "Deaths": "85367"
+    },
+    {
+        "": "196",
+        "state": "North Carolina",
+        "year": "2015",
+        "obesity_percentage": "30.03",
+        "tobacco_percentage": "12.6",
+        "per capita income": "41851",
+        "Deaths": "89133"
+    },
+    {
+        "": "197",
+        "state": "North Carolina",
+        "year": "2016",
+        "obesity_percentage": "31.88",
+        "tobacco_percentage": "23.5",
+        "per capita income": "42651",
+        "Deaths": "90465"
+    },
+    {
+        "": "198",
+        "state": "North Dakota",
+        "year": "2011",
+        "obesity_percentage": "28.02",
+        "tobacco_percentage": "15.9",
+        "per capita income": "47994",
+        "Deaths": "5965"
+    },
+    {
+        "": "199",
+        "state": "North Dakota",
+        "year": "2012",
+        "obesity_percentage": "29.68",
+        "tobacco_percentage": "23.7",
+        "per capita income": "55426",
+        "Deaths": "6038"
+    },
+    {
+        "": "200",
+        "state": "North Dakota",
+        "year": "2013",
+        "obesity_percentage": "31.97",
+        "tobacco_percentage": "19.9",
+        "per capita income": "53824",
+        "Deaths": "6233"
+    },
+    {
+        "": "201",
+        "state": "North Dakota",
+        "year": "2014",
+        "obesity_percentage": "32.26",
+        "tobacco_percentage": "17.5",
+        "per capita income": "56316",
+        "Deaths": "6184"
+    },
+    {
+        "": "202",
+        "state": "North Dakota",
+        "year": "2015",
+        "obesity_percentage": "31.24",
+        "tobacco_percentage": "17.4",
+        "per capita income": "53845",
+        "Deaths": "6223"
+    },
+    {
+        "": "203",
+        "state": "North Dakota",
+        "year": "2016",
+        "obesity_percentage": "32.19",
+        "tobacco_percentage": "12.5",
+        "per capita income": "52525",
+        "Deaths": "6242"
+    },
+    {
+        "": "204",
+        "state": "Ohio",
+        "year": "2011",
+        "obesity_percentage": "29.63",
+        "tobacco_percentage": "17.1",
+        "per capita income": "39071",
+        "Deaths": "111427"
+    },
+    {
+        "": "205",
+        "state": "Ohio",
+        "year": "2012",
+        "obesity_percentage": "30.15",
+        "tobacco_percentage": "17.7",
+        "per capita income": "40634",
+        "Deaths": "112498"
+    },
+    {
+        "": "206",
+        "state": "Ohio",
+        "year": "2013",
+        "obesity_percentage": "30.51",
+        "tobacco_percentage": "14.4",
+        "per capita income": "41098",
+        "Deaths": "113258"
+    },
+    {
+        "": "207",
+        "state": "Ohio",
+        "year": "2014",
+        "obesity_percentage": "32.83",
+        "tobacco_percentage": "19.4",
+        "per capita income": "42754",
+        "Deaths": "114509"
+    },
+    {
+        "": "208",
+        "state": "Ohio",
+        "year": "2015",
+        "obesity_percentage": "29.99",
+        "tobacco_percentage": "17.5",
+        "per capita income": "44340",
+        "Deaths": "118188"
+    },
+    {
+        "": "209",
+        "state": "Ohio",
+        "year": "2016",
+        "obesity_percentage": "31.59",
+        "tobacco_percentage": "19.8",
+        "per capita income": "45040",
+        "Deaths": "119572"
+    },
+    {
+        "": "210",
+        "state": "Oklahoma",
+        "year": "2011",
+        "obesity_percentage": "31.14",
+        "tobacco_percentage": "19.4",
+        "per capita income": "39043",
+        "Deaths": "37175"
+    },
+    {
+        "": "211",
+        "state": "Oklahoma",
+        "year": "2012",
+        "obesity_percentage": "32.12",
+        "tobacco_percentage": "19.9",
+        "per capita income": "41469",
+        "Deaths": "36870"
+    },
+    {
+        "": "212",
+        "state": "Oklahoma",
+        "year": "2013",
+        "obesity_percentage": "32.4",
+        "tobacco_percentage": "26.5",
+        "per capita income": "43097",
+        "Deaths": "38384"
+    },
+    {
+        "": "213",
+        "state": "Oklahoma",
+        "year": "2014",
+        "obesity_percentage": "32.99",
+        "tobacco_percentage": "17.2",
+        "per capita income": "45540",
+        "Deaths": "38464"
+    },
+    {
+        "": "214",
+        "state": "Oklahoma",
+        "year": "2015",
+        "obesity_percentage": "33.73",
+        "tobacco_percentage": "16.6",
+        "per capita income": "44245",
+        "Deaths": "39422"
+    },
+    {
+        "": "215",
+        "state": "Oklahoma",
+        "year": "2016",
+        "obesity_percentage": "32.62",
+        "tobacco_percentage": "18.1",
+        "per capita income": "41871",
+        "Deaths": "39276"
+    },
+    {
+        "": "216",
+        "state": "Oregon",
+        "year": "2011",
+        "obesity_percentage": "26.52",
+        "tobacco_percentage": "21.0",
+        "per capita income": "37821",
+        "Deaths": "32788"
+    },
+    {
+        "": "217",
+        "state": "Oregon",
+        "year": "2012",
+        "obesity_percentage": "27.1",
+        "tobacco_percentage": "18.7",
+        "per capita income": "39601",
+        "Deaths": "32759"
+    },
+    {
+        "": "218",
+        "state": "Oregon",
+        "year": "2013",
+        "obesity_percentage": "26.34",
+        "tobacco_percentage": "15.1",
+        "per capita income": "40015",
+        "Deaths": "33939"
+    },
+    {
+        "": "219",
+        "state": "Oregon",
+        "year": "2014",
+        "obesity_percentage": "27.84",
+        "tobacco_percentage": "21.1",
+        "per capita income": "42483",
+        "Deaths": "34151"
+    },
+    {
+        "": "220",
+        "state": "Oregon",
+        "year": "2015",
+        "obesity_percentage": "29.86",
+        "tobacco_percentage": "13.3",
+        "per capita income": "45182",
+        "Deaths": "35705"
+    },
+    {
+        "": "221",
+        "state": "Oregon",
+        "year": "2016",
+        "obesity_percentage": "28.54",
+        "tobacco_percentage": "21.1",
+        "per capita income": "46498",
+        "Deaths": "35778"
+    },
+    {
+        "": "222",
+        "state": "Pennsylvania",
+        "year": "2011",
+        "obesity_percentage": "28.66",
+        "tobacco_percentage": "20.5",
+        "per capita income": "44210",
+        "Deaths": "128237"
+    },
+    {
+        "": "223",
+        "state": "Pennsylvania",
+        "year": "2012",
+        "obesity_percentage": "29.16",
+        "tobacco_percentage": "21.9",
+        "per capita income": "46019",
+        "Deaths": "126981"
+    },
+    {
+        "": "224",
+        "state": "Pennsylvania",
+        "year": "2013",
+        "obesity_percentage": "30.12",
+        "tobacco_percentage": "20.3",
+        "per capita income": "46411",
+        "Deaths": "129123"
+    },
+    {
+        "": "225",
+        "state": "Pennsylvania",
+        "year": "2014",
+        "obesity_percentage": "30.21",
+        "tobacco_percentage": "18.1",
+        "per capita income": "48431",
+        "Deaths": "128434"
+    },
+    {
+        "": "226",
+        "state": "Pennsylvania",
+        "year": "2015",
+        "obesity_percentage": "30.06",
+        "tobacco_percentage": "16.5",
+        "per capita income": "50378",
+        "Deaths": "132598"
+    },
+    {
+        "": "227",
+        "state": "Pennsylvania",
+        "year": "2016",
+        "obesity_percentage": "30.14",
+        "tobacco_percentage": "17.0",
+        "per capita income": "51614",
+        "Deaths": "133040"
+    },
+    {
+        "": "228",
+        "state": "Rhode Island",
+        "year": "2011",
+        "obesity_percentage": "25.28",
+        "tobacco_percentage": "26.7",
+        "per capita income": "44675",
+        "Deaths": "9581"
+    },
+    {
+        "": "229",
+        "state": "Rhode Island",
+        "year": "2012",
+        "obesity_percentage": "25.82",
+        "tobacco_percentage": "28.6",
+        "per capita income": "46283",
+        "Deaths": "9354"
+    },
+    {
+        "": "230",
+        "state": "Rhode Island",
+        "year": "2013",
+        "obesity_percentage": "27.24",
+        "tobacco_percentage": "24.3",
+        "per capita income": "46225",
+        "Deaths": "9792"
+    },
+    {
+        "": "231",
+        "state": "Rhode Island",
+        "year": "2014",
+        "obesity_percentage": "26.88",
+        "tobacco_percentage": "18.3",
+        "per capita income": "48165",
+        "Deaths": "9770"
+    },
+    {
+        "": "232",
+        "state": "Rhode Island",
+        "year": "2015",
+        "obesity_percentage": "25.96",
+        "tobacco_percentage": "10.6",
+        "per capita income": "50053",
+        "Deaths": "10163"
+    },
+    {
+        "": "233",
+        "state": "Rhode Island",
+        "year": "2016",
+        "obesity_percentage": "26.56",
+        "tobacco_percentage": "20.9",
+        "per capita income": "50541",
+        "Deaths": "9735"
+    },
+    {
+        "": "234",
+        "state": "South Carolina",
+        "year": "2011",
+        "obesity_percentage": "30.97",
+        "tobacco_percentage": "22.4",
+        "per capita income": "34077",
+        "Deaths": "42072"
+    },
+    {
+        "": "235",
+        "state": "South Carolina",
+        "year": "2012",
+        "obesity_percentage": "31.61",
+        "tobacco_percentage": "20.9",
+        "per capita income": "35572",
+        "Deaths": "43198"
+    },
+    {
+        "": "236",
+        "state": "South Carolina",
+        "year": "2013",
+        "obesity_percentage": "31.71",
+        "tobacco_percentage": "20.4",
+        "per capita income": "35731",
+        "Deaths": "44582"
+    },
+    {
+        "": "237",
+        "state": "South Carolina",
+        "year": "2014",
+        "obesity_percentage": "31.99",
+        "tobacco_percentage": "23.3",
+        "per capita income": "37622",
+        "Deaths": "45454"
+    },
+    {
+        "": "238",
+        "state": "South Carolina",
+        "year": "2015",
+        "obesity_percentage": "31.65",
+        "tobacco_percentage": "16.8",
+        "per capita income": "39496",
+        "Deaths": "47198"
+    },
+    {
+        "": "239",
+        "state": "South Carolina",
+        "year": "2016",
+        "obesity_percentage": "32.3",
+        "tobacco_percentage": "21.9",
+        "per capita income": "40404",
+        "Deaths": "48130"
+    },
+    {
+        "": "240",
+        "state": "South Dakota",
+        "year": "2011",
+        "obesity_percentage": "28.29",
+        "tobacco_percentage": "25.6",
+        "per capita income": "44618",
+        "Deaths": "7314"
+    },
+    {
+        "": "241",
+        "state": "South Dakota",
+        "year": "2012",
+        "obesity_percentage": "28.32",
+        "tobacco_percentage": "21.2",
+        "per capita income": "45183",
+        "Deaths": "7333"
+    },
+    {
+        "": "242",
+        "state": "South Dakota",
+        "year": "2013",
+        "obesity_percentage": "29.99",
+        "tobacco_percentage": "19.0",
+        "per capita income": "45245",
+        "Deaths": "7099"
+    },
+    {
+        "": "243",
+        "state": "South Dakota",
+        "year": "2014",
+        "obesity_percentage": "30.01",
+        "tobacco_percentage": "17.3",
+        "per capita income": "46959",
+        "Deaths": "7507"
+    },
+    {
+        "": "244",
+        "state": "South Dakota",
+        "year": "2015",
+        "obesity_percentage": "30.58",
+        "tobacco_percentage": "26.1",
+        "per capita income": "48655",
+        "Deaths": "7731"
+    },
+    {
+        "": "245",
+        "state": "South Dakota",
+        "year": "2016",
+        "obesity_percentage": "29.85",
+        "tobacco_percentage": "22.9",
+        "per capita income": "48627",
+        "Deaths": "7845"
+    },
+    {
+        "": "246",
+        "state": "Tennessee",
+        "year": "2011",
+        "obesity_percentage": "29.4",
+        "tobacco_percentage": "23.1",
+        "per capita income": "37627",
+        "Deaths": "60541"
+    },
+    {
+        "": "247",
+        "state": "Tennessee",
+        "year": "2012",
+        "obesity_percentage": "31.24",
+        "tobacco_percentage": "16.2",
+        "per capita income": "39312",
+        "Deaths": "61956"
+    },
+    {
+        "": "248",
+        "state": "Tennessee",
+        "year": "2013",
+        "obesity_percentage": "33.76",
+        "tobacco_percentage": "22.8",
+        "per capita income": "39427",
+        "Deaths": "63406"
+    },
+    {
+        "": "249",
+        "state": "Tennessee",
+        "year": "2014",
+        "obesity_percentage": "31.09",
+        "tobacco_percentage": "26.0",
+        "per capita income": "40801",
+        "Deaths": "64661"
+    },
+    {
+        "": "250",
+        "state": "Tennessee",
+        "year": "2015",
+        "obesity_percentage": "33.64",
+        "tobacco_percentage": "17.9",
+        "per capita income": "42593",
+        "Deaths": "66570"
+    },
+    {
+        "": "251",
+        "state": "Tennessee",
+        "year": "2016",
+        "obesity_percentage": "34.62",
+        "tobacco_percentage": "16.5",
+        "per capita income": "43726",
+        "Deaths": "67857"
+    },
+    {
+        "": "252",
+        "state": "Texas",
+        "year": "2011",
+        "obesity_percentage": "30.15",
+        "tobacco_percentage": "13.7",
+        "per capita income": "41244",
+        "Deaths": "168640"
+    },
+    {
+        "": "253",
+        "state": "Texas",
+        "year": "2012",
+        "obesity_percentage": "29.11",
+        "tobacco_percentage": "20.4",
+        "per capita income": "43397",
+        "Deaths": "174187"
+    },
+    {
+        "": "254",
+        "state": "Texas",
+        "year": "2013",
+        "obesity_percentage": "30.69",
+        "tobacco_percentage": "17.4",
+        "per capita income": "43781",
+        "Deaths": "179183"
+    },
+    {
+        "": "255",
+        "state": "Texas",
+        "year": "2014",
+        "obesity_percentage": "31.62",
+        "tobacco_percentage": "17.1",
+        "per capita income": "46289",
+        "Deaths": "183912"
+    },
+    {
+        "": "256",
+        "state": "Texas",
+        "year": "2015",
+        "obesity_percentage": "32.21",
+        "tobacco_percentage": "19.3",
+        "per capita income": "46577",
+        "Deaths": "189654"
+    },
+    {
+        "": "257",
+        "state": "Texas",
+        "year": "2016",
+        "obesity_percentage": "33.29",
+        "tobacco_percentage": "17.2",
+        "per capita income": "45616",
+        "Deaths": "191966"
+    },
+    {
+        "": "258",
+        "state": "Utah",
+        "year": "2011",
+        "obesity_percentage": "24.55",
+        "tobacco_percentage": "19.4",
+        "per capita income": "34200",
+        "Deaths": "15266"
+    },
+    {
+        "": "259",
+        "state": "Utah",
+        "year": "2012",
+        "obesity_percentage": "24.55",
+        "tobacco_percentage": "23.3",
+        "per capita income": "36139",
+        "Deaths": "15676"
+    },
+    {
+        "": "260",
+        "state": "Utah",
+        "year": "2013",
+        "obesity_percentage": "24.32",
+        "tobacco_percentage": "27.0",
+        "per capita income": "36725",
+        "Deaths": "16366"
+    },
+    {
+        "": "261",
+        "state": "Utah",
+        "year": "2014",
+        "obesity_percentage": "25.91",
+        "tobacco_percentage": "20.9",
+        "per capita income": "38517",
+        "Deaths": "16719"
+    },
+    {
+        "": "262",
+        "state": "Utah",
+        "year": "2015",
+        "obesity_percentage": "24.67",
+        "tobacco_percentage": "22.5",
+        "per capita income": "40867",
+        "Deaths": "17334"
+    },
+    {
+        "": "263",
+        "state": "Utah",
+        "year": "2016",
+        "obesity_percentage": "25.63",
+        "tobacco_percentage": "22.1",
+        "per capita income": "42375",
+        "Deaths": "17913"
+    },
+    {
+        "": "264",
+        "state": "Vermont",
+        "year": "2011",
+        "obesity_percentage": "25.33",
+        "tobacco_percentage": "17.5",
+        "per capita income": "43790",
+        "Deaths": "5433"
+    },
+    {
+        "": "265",
+        "state": "Vermont",
+        "year": "2012",
+        "obesity_percentage": "23.77",
+        "tobacco_percentage": "21.4",
+        "per capita income": "45356",
+        "Deaths": "5491"
+    },
+    {
+        "": "266",
+        "state": "Vermont",
+        "year": "2013",
+        "obesity_percentage": "24.76",
+        "tobacco_percentage": "22.0",
+        "per capita income": "45941",
+        "Deaths": "5639"
+    },
+    {
+        "": "267",
+        "state": "Vermont",
+        "year": "2014",
+        "obesity_percentage": "24.73",
+        "tobacco_percentage": "23.0",
+        "per capita income": "47802",
+        "Deaths": "5623"
+    },
+    {
+        "": "268",
+        "state": "Vermont",
+        "year": "2015",
+        "obesity_percentage": "25.23",
+        "tobacco_percentage": "19.3",
+        "per capita income": "49582",
+        "Deaths": "5919"
+    },
+    {
+        "": "269",
+        "state": "Vermont",
+        "year": "2016",
+        "obesity_percentage": "27.04",
+        "tobacco_percentage": "18.1",
+        "per capita income": "50796",
+        "Deaths": "5909"
+    },
+    {
+        "": "270",
+        "state": "Virginia",
+        "year": "2011",
+        "obesity_percentage": "29.26",
+        "tobacco_percentage": "20.0",
+        "per capita income": "47775",
+        "Deaths": "60804"
+    },
+    {
+        "": "271",
+        "state": "Virginia",
+        "year": "2012",
+        "obesity_percentage": "27.4",
+        "tobacco_percentage": "22.9",
+        "per capita income": "49585",
+        "Deaths": "61564"
+    },
+    {
+        "": "272",
+        "state": "Virginia",
+        "year": "2013",
+        "obesity_percentage": "27.38",
+        "tobacco_percentage": "24.9",
+        "per capita income": "48855",
+        "Deaths": "62716"
+    },
+    {
+        "": "273",
+        "state": "Virginia",
+        "year": "2014",
+        "obesity_percentage": "28.59",
+        "tobacco_percentage": "23.0",
+        "per capita income": "50754",
+        "Deaths": "63598"
+    },
+    {
+        "": "274",
+        "state": "Virginia",
+        "year": "2015",
+        "obesity_percentage": "29.33",
+        "tobacco_percentage": "21.5",
+        "per capita income": "52892",
+        "Deaths": "65577"
+    },
+    {
+        "": "275",
+        "state": "Virginia",
+        "year": "2016",
+        "obesity_percentage": "29.11",
+        "tobacco_percentage": "21.8",
+        "per capita income": "53605",
+        "Deaths": "66473"
+    },
+    {
+        "": "276",
+        "state": "Washington",
+        "year": "2011",
+        "obesity_percentage": "26.59",
+        "tobacco_percentage": "21.8",
+        "per capita income": "44709",
+        "Deaths": "49691"
+    },
+    {
+        "": "277",
+        "state": "Washington",
+        "year": "2012",
+        "obesity_percentage": "26.88",
+        "tobacco_percentage": "17.2",
+        "per capita income": "47768",
+        "Deaths": "50105"
+    },
+    {
+        "": "278",
+        "state": "Washington",
+        "year": "2013",
+        "obesity_percentage": "27.3",
+        "tobacco_percentage": "28.2",
+        "per capita income": "48304",
+        "Deaths": "51264"
+    },
+    {
+        "": "279",
+        "state": "Washington",
+        "year": "2014",
+        "obesity_percentage": "27.35",
+        "tobacco_percentage": "29.0",
+        "per capita income": "51518",
+        "Deaths": "52099"
+    },
+    {
+        "": "280",
+        "state": "Washington",
+        "year": "2015",
+        "obesity_percentage": "26.56",
+        "tobacco_percentage": "23.0",
+        "per capita income": "53840",
+        "Deaths": "54595"
+    },
+    {
+        "": "281",
+        "state": "Washington",
+        "year": "2016",
+        "obesity_percentage": "28.55",
+        "tobacco_percentage": "19.1",
+        "per capita income": "55884",
+        "Deaths": "54769"
+    },
+    {
+        "": "282",
+        "state": "West Virginia",
+        "year": "2011",
+        "obesity_percentage": "32.61",
+        "tobacco_percentage": "21.2",
+        "per capita income": "34131",
+        "Deaths": "21867"
+    },
+    {
+        "": "283",
+        "state": "West Virginia",
+        "year": "2012",
+        "obesity_percentage": "33.77",
+        "tobacco_percentage": "25.7",
+        "per capita income": "35118",
+        "Deaths": "21915"
+    },
+    {
+        "": "284",
+        "state": "West Virginia",
+        "year": "2013",
+        "obesity_percentage": "35.11",
+        "tobacco_percentage": "20.9",
+        "per capita income": "34946",
+        "Deaths": "21843"
+    },
+    {
+        "": "285",
+        "state": "West Virginia",
+        "year": "2014",
+        "obesity_percentage": "35.63",
+        "tobacco_percentage": "21.8",
+        "per capita income": "36153",
+        "Deaths": "22186"
+    },
+    {
+        "": "286",
+        "state": "West Virginia",
+        "year": "2015",
+        "obesity_percentage": "35.64",
+        "tobacco_percentage": "19.1",
+        "per capita income": "36915",
+        "Deaths": "22752"
+    },
+    {
+        "": "287",
+        "state": "West Virginia",
+        "year": "2016",
+        "obesity_percentage": "37.71",
+        "tobacco_percentage": "23.3",
+        "per capita income": "36931",
+        "Deaths": "22732"
+    },
+    {
+        "": "288",
+        "state": "Wisconsin",
+        "year": "2011",
+        "obesity_percentage": "28.06",
+        "tobacco_percentage": "19.3",
+        "per capita income": "41178",
+        "Deaths": "48410"
+    },
+    {
+        "": "289",
+        "state": "Wisconsin",
+        "year": "2012",
+        "obesity_percentage": "29.94",
+        "tobacco_percentage": "16.8",
+        "per capita income": "43034",
+        "Deaths": "48384"
+    },
+    {
+        "": "290",
+        "state": "Wisconsin",
+        "year": "2013",
+        "obesity_percentage": "30.04",
+        "tobacco_percentage": "19.1",
+        "per capita income": "43184",
+        "Deaths": "50026"
+    },
+    {
+        "": "291",
+        "state": "Wisconsin",
+        "year": "2014",
+        "obesity_percentage": "31.2",
+        "tobacco_percentage": "18.2",
+        "per capita income": "44939",
+        "Deaths": "50291"
+    },
+    {
+        "": "292",
+        "state": "Wisconsin",
+        "year": "2015",
+        "obesity_percentage": "30.91",
+        "tobacco_percentage": "25.1",
+        "per capita income": "46681",
+        "Deaths": "51264"
+    },
+    {
+        "": "293",
+        "state": "Wisconsin",
+        "year": "2016",
+        "obesity_percentage": "31.07",
+        "tobacco_percentage": "18.2",
+        "per capita income": "47550",
+        "Deaths": "51815"
+    },
+    {
+        "": "294",
+        "state": "Wyoming",
+        "year": "2011",
+        "obesity_percentage": "25.01",
+        "tobacco_percentage": "11.8",
+        "per capita income": "49992",
+        "Deaths": "4387"
+    },
+    {
+        "": "295",
+        "state": "Wyoming",
+        "year": "2012",
+        "obesity_percentage": "24.58",
+        "tobacco_percentage": "19.7",
+        "per capita income": "53527",
+        "Deaths": "4481"
+    },
+    {
+        "": "296",
+        "state": "Wyoming",
+        "year": "2013",
+        "obesity_percentage": "27.59",
+        "tobacco_percentage": "19.2",
+        "per capita income": "52892",
+        "Deaths": "4516"
+    },
+    {
+        "": "297",
+        "state": "Wyoming",
+        "year": "2014",
+        "obesity_percentage": "29.17",
+        "tobacco_percentage": "25.0",
+        "per capita income": "56708",
+        "Deaths": "4666"
+    },
+    {
+        "": "298",
+        "state": "Wyoming",
+        "year": "2015",
+        "obesity_percentage": "28.81",
+        "tobacco_percentage": "20.0",
+        "per capita income": "57101",
+        "Deaths": "4778"
+    },
+    {
+        "": "299",
+        "state": "Wyoming",
+        "year": "2016",
+        "obesity_percentage": "27.66",
+        "tobacco_percentage": "22.0",
+        "per capita income": "54610",
+        "Deaths": "4722"
+    }
+]
